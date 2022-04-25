@@ -1,4 +1,6 @@
-Too long to read? Try using a Read Aloud text reader extension 🤓 if you have Chrome, you can try [this](https://chrome.google.com/webstore/detail/read-aloud-a-text-to-spee/hdhinadidafjejdhmfkjgnolgimiaplp/related?hl=en) 
+### Help to read 📚
+
+Too long to read? Try using a Read Aloud text reader extension 🤓 If you have Chrome, you can try [this](https://chrome.google.com/webstore/detail/read-aloud-a-text-to-spee/hdhinadidafjejdhmfkjgnolgimiaplp/related?hl=en) 
 
 # :wave: The Basics of GitHub 
 
